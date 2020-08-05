@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 1 Kg",
+      "precio": "205",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Mango Verde 1kg",
+      "precio": 1000,
+      "id": 6
+    },
+    {
+      "nombre": "Piña x Unidad",
+      "precio": 2500,
+      "id": 8
+    },
+    {
+      "nombre": "Pera Promo 3kg",
+      "precio": 1900,
+      "id": 9
+    },
+    {
+      "nombre": "Pulpa de arandanos",
+      "precio": 2500,
+      "id": 10
+    },
+    {
+      "nombre": "Guayaba 2Kg",
+      "precio": 500,
+      "id": 11
+    },
+    {
+      "nombre": "Mate Cocido",
+      "precio": "200",
+      "id": 12
+    },
+    {
+      "nombre": "Cafe Aguila",
+      "precio": "900",
+      "id": 13
+    },
+    {
+      "nombre": "Azucar Blanca",
+      "precio": 1200,
+      "id": 14
+    }
+  ]
+}
